@@ -110,7 +110,9 @@ The model serves as the foundation for all DAX calculations and dashboard visual
 
 # 📸 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+> <img width="1356" height="730" alt="Dashboard-3_Screenshot" src="https://github.com/user-attachments/assets/49781d39-6ce3-4f02-9634-3d15b8aee6c4" />
+<img width="1356" height="730" alt="Dashboard-3_Screenshot" src="https://github.com/user-attachments/assets/bdfe7824-b0d3-48c1-93c9-c2b0953755d7" />
+
 
 ```markdown
 ![Dashboard](images/dashboard.png)
